@@ -4,7 +4,7 @@
 
 ---
 
-Sou **Lucas**, cursei até o **5º período do Bacharelado em Física** pela **Universidade Federal de Alagoas (UFAL)**. Possuo **base matemática sólida**, com forte domínio de **Cálculo Diferencial e Integral**, **Álgebra Linear** e **Métodos Matemáticos**, aplicados diretamente à resolução de problemas em ciência de dados e aprendizado de máquina.
+Sou **Lucas**! Possuo **base matemática sólida**, com forte domínio de **Cálculo Diferencial e Integral**, **Álgebra Linear** e **Métodos Matemáticos**, aplicados diretamente à resolução de problemas em ciência de dados e aprendizado de máquina.
 
 Tenho grande interesse na **matemática por trás dos algoritmos e arquiteturas de Machine Learning**, buscando compreender os fundamentos teóricos que explicam o funcionamento de modelos estatísticos e algoritmos de aprendizado, indo além do uso de bibliotecas prontas.
 
