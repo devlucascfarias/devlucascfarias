@@ -1,65 +1,26 @@
 <div align="center">
 
-# Lucas Farias
+# Lucas Correia F. Porangaba
 
-### Física · Inteligência Artificial Generativa · LLMs · Computação Científica
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Correia-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/lucas-correia)
+[![GitHub](https://img.shields.io/badge/GitHub-devlucascfarias-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/devlucascfarias)
+[![Email](https://img.shields.io/badge/Email-lucas.farias%40fis.ufal.br-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:lucas.farias@fis.ufal.br)
 
 </div>
 
-## 👋 Sobre mim
+## Sobre mim
 
-Sou graduando em Física pela **Universidade Federal de Alagoas (UFAL)**, com experiência em **inteligência artificial generativa**, **modelos de linguagem de grande escala** e **computação científica**.
+Sou graduando em Física pela **Universidade Federal de Alagoas (UFAL)**, com experiência prática em **análise de dados, machine learning e computação científica**.
 
-Possuo conhecimentos em preparação e curadoria de datasets, fine-tuning supervisionado, LoRA, QLoRA, avaliação de modelos, engenharia de prompts e análise de desempenho de LLMs. Também tenho experiência com Python, PyTorch, Hugging Face, aprendizado de máquina e desenvolvimento de sistemas baseados em inteligência artificial.
+Atuei no desenvolvimento e na validação de modelos de deep learning para segmentação de imagens médicas, na construção de pipelines de dados e na automação de experimentos em Python. Também desenvolvo pesquisa científica envolvendo simulações numéricas, análise de dados e modelagem de sistemas físicos.
 
-Minha formação também abrange métodos numéricos, dinâmica dos fluidos computacional, modelagem matemática e resolução de problemas científicos por meio de engenharia computacional.
+Tenho interesse em transformar dados e modelos matemáticos em soluções reproduzíveis, verificáveis e aplicáveis a problemas reais.
 
-<details>
-<summary><strong>🇺🇸 English version</strong></summary>
-<br>
+## Experiência em destaque
 
-I am a Physics undergraduate at the **Federal University of Alagoas (UFAL)**, with experience in **generative artificial intelligence**, **large language models**, and **scientific computing**.
-
-I have knowledge of dataset preparation and curation, supervised fine-tuning, LoRA, QLoRA, model evaluation, prompt engineering, and LLM performance analysis. I also have experience with Python, PyTorch, Hugging Face, machine learning, and the development of artificial intelligence-based systems.
-
-My academic background also encompasses numerical methods, computational fluid dynamics, mathematical modeling, and scientific problem-solving through computational engineering.
-
-</details>
-
-## 🧠 Áreas de experiência
-
-- **LLMs e IA generativa:** supervised fine-tuning, LoRA, QLoRA, curadoria de datasets, prompt engineering e avaliação de modelos.
-- **Machine learning:** desenvolvimento, treinamento, validação e análise de desempenho de modelos.
-- **Computação científica:** métodos numéricos, modelagem matemática e resolução computacional de problemas físicos.
-- **CFD:** dinâmica dos fluidos computacional, simulação numérica e análise de escoamentos.
-
-## 🛠️ Tecnologias
-
-### Inteligência Artificial e dados
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face">
-  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Transformers">
-  <img src="https://img.shields.io/badge/LiteLLM-000000?style=for-the-badge&logo=litellm&logoColor=white" alt="LiteLLM">
-  <img src="https://img.shields.io/badge/vLLM-5C4EE5?style=for-the-badge&logo=vllm&logoColor=white" alt="vLLM">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain">
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-</p>
-
-### Desenvolvimento e computação científica
-
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/OpenFOAM-005C99?style=for-the-badge&logo=openfoam&logoColor=white" alt="OpenFOAM">
-</p>
-
-## 🔬 Interesses
-
-Tenho interesse no desenvolvimento de sistemas de IA **eficientes, verificáveis e especializados**, especialmente para aplicações científicas, educacionais e de programação.
+* Desenvolvimento de modelos de segmentação de imagens médicas com **PyTorch e U-Net**.
+* Construção de pipelines de ingestão, limpeza, transformação e análise de dados.
+* Planejamento, execução e comparação de experimentos de machine learning.
+* Simulações numéricas de dinâmica dos fluidos utilizando **Python e C++**.
+* Análise exploratória, visualização de dados e validação estatística de resultados.
+* Automação de treinamento, avaliação e pós-processamento de experimentos.
