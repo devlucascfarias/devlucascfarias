@@ -14,8 +14,6 @@ Sou graduando em Física pela **Universidade Federal de Alagoas (UFAL)**, com ex
 
 Atuei no desenvolvimento e na validação de modelos de deep learning para segmentação de imagens médicas, na construção de pipelines de dados e na automação de experimentos em Python. Também desenvolvo pesquisa científica envolvendo simulações numéricas, análise de dados e modelagem de sistemas físicos.
 
-Tenho interesse em transformar dados e modelos matemáticos em soluções reproduzíveis, verificáveis e aplicáveis a problemas reais.
-
 ## Experiência em destaque
 
 * Desenvolvimento de modelos de segmentação de imagens médicas com **PyTorch e U-Net**.
