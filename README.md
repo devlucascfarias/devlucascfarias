@@ -10,15 +10,11 @@
 
 ## Sobre mim
 
-Sou graduando em Física pela **Universidade Federal de Alagoas (UFAL)**, com experiência prática em **análise de dados, machine learning e computação científica**.
+Estudante de Física na UFAL, com formação prevista para 2028 e 2 anos de experiência em análise de dados, machine learning e desenvolvimento de soluções computacionais. Atuação em HealthTech e pesquisa tecnológica, com experiência em pipelines de dados, automação de processos, análise exploratória e modelagem em Python, Pandas, NumPy, scikit-learn
+e PyTorch.
 
-Atuei no desenvolvimento e na validação de modelos de deep learning para segmentação de imagens médicas, na construção de pipelines de dados e na automação de experimentos em Python. Também desenvolvo pesquisa científica envolvendo simulações numéricas, análise de dados e modelagem de sistemas físicos.
 
-## Experiência em destaque
+## Habilidades
 
-* Desenvolvimento de modelos de segmentação de imagens médicas com **PyTorch e U-Net**.
-* Construção de pipelines de ingestão, limpeza, transformação e análise de dados.
-* Planejamento, execução e comparação de experimentos de machine learning.
-* Simulações numéricas de dinâmica dos fluidos utilizando **Python e C++**.
-* Análise exploratória, visualização de dados e validação estatística de resultados.
-* Automação de treinamento, avaliação e pós-processamento de experimentos.
+Python, PyTorch, NumPy, SQL, PostgreSQL, MySQL, Scikit-learn, Git, MLflow, Docker, R, Go, FastAPI, ETL,
+Estatística, Deep Learning, XGBoost, LightGBM, DataBricks, Statsmodels, SciPy, Visão Computacional
