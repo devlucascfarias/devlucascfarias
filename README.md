@@ -2,7 +2,7 @@
 
 # Lucas Correia F. Porangaba
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Correia-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/lucas-correia)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Correia-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/lucas-correia-b856152b5/))
 [![GitHub](https://img.shields.io/badge/GitHub-devlucascfarias-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/devlucascfarias)
 [![Email](https://img.shields.io/badge/Email-lucas.farias%40fis.ufal.br-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:lucas.farias@fis.ufal.br)
 
