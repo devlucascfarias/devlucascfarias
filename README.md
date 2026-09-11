@@ -10,11 +10,9 @@
 
 ## Sobre mim
 
-Estudante de Física na UFAL, com formação prevista para 2028 e 2 anos de experiência em análise de dados, machine learning e desenvolvimento de soluções computacionais. Atuação em HealthTech e pesquisa tecnológica, com experiência em pipelines de dados, automação de processos, análise exploratória e modelagem em Python, Pandas, NumPy, scikit-learn
-e PyTorch.
-
+Estudante de Física na Universidade Federal de Alagoas (UFAL), com formação prevista para 2028.2 e aproximadamente 2 anos de experiência em Ciência de Dados, Machine Learning e desenvolvimento de soluções computacionais. Experiência em HealthTech e pesquisa científica aplicada, com atuação em pipelines de dados, automação, análise exploratória, modelagem computacional e Deep Learning utilizando Python, Pandas, NumPy, scikit-learn e PyTorch.
 
 ## Habilidades
 
-Python, PyTorch, NumPy, SQL, PostgreSQL, MySQL, Scikit-learn, Git, MLflow, Docker, R, Go, FastAPI, ETL,
-Estatística, Deep Learning, XGBoost, LightGBM, DataBricks, Statsmodels, SciPy, Visão Computacional
+Python, PyTorch, NumPy, Pandas, SQL, PostgreSQL, MySQL, scikit-learn, Git, MLflow, Docker, R, Go, FastAPI, ETL,
+Estatística, Deep Learning, XGBoost, LightGBM, Databricks, Statsmodels, SciPy, Visão Computacional, Apache Spark
